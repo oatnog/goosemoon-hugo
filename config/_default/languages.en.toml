@@ -14,6 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Allan Anderson"
+  headline = "Hi! ."
   #image = "img/portrait.png"
   image = "img/prog.jpg"
   # headline = "I'm only human"
@@ -53,6 +54,7 @@ dateFormat = "2 January 2006"
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { substack = "https://builtation.substack.com" },
   #   { telegram = "https://t.me/username" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },

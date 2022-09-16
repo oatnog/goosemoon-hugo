@@ -50,7 +50,7 @@ enableCodeCopy = false
 [list]
   showBreadcrumbs = false
   showSummary = false
-  showTableOfContents = false
+  showTableOfContents = true
   groupByYear = true
 
 [sitemap]
