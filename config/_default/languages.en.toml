@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Allan Anderson"
   headline = "Hi! I make software. I write about it here."
-  #image = "img/portrait.png"
-  image = "img/prog.jpg"
+  image = "img/portrait.png"
+  #image = "img/prog.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   links = [
