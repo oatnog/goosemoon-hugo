@@ -7,21 +7,20 @@ rtl = false
 
 title = "That Old Goose Moon"
 # logo = "img/prog.jpg"
-# description = "My awesome website"
+description = "My little website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Allan Anderson"
-  headline = "Hi! ."
+  headline = "Hi! I make software. I write about it here."
   #image = "img/portrait.png"
   image = "img/prog.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   links = [
-  #   { email = "mailto:hello@your_domain.com" },
-  #   { link = "https://link-to-some-website.com/" },
+  { email = "mailto:rubel@goosemoon.org" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -62,4 +61,6 @@ dateFormat = "2 January 2006"
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
+       { link = "https://www.credly.com/badges/6a4b2cfb-670c-4e7f-82d2-6749cd28f13e/public_url" },
+
   ]
