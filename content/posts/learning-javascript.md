@@ -2,6 +2,7 @@
 title: "Learning JavaScript Pt. 1"
 date: 2021-07-13T10:20:09-10:00
 draft: false
+tags: ["javascript", "education"]
 ---
 
 At the beginning of 2021, I decided to get serious about learning JavaScript.

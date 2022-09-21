@@ -3,6 +3,7 @@ title: "The Bird's-Eye Lowdown"
 subtitle: "Ways to monitor your system from the top"
 date: 2021-09-20T16:04:48-10:00
 draft: false
+tags: ["linux", "monitoring"]
 ---
 I want to know what my computer is doing.
 

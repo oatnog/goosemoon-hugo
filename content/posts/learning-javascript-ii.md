@@ -2,7 +2,7 @@
 title: "Learning Javascript Pt. 2"
 date: 2021-07-25T15:18:44-10:00
 draft: false
-tags: javascript
+tags: ["javascript", "education"]
 ---
 Last time, I enumerated all the dialects I've attempted in my life-long efforts to communicate with computers. I valiantly resisted drawing any sort of *family tree* of programming languages through the decades. It's diverting to develop taxonomies and tease out relationships and influences. I think this list points out just how much fun it is to build systems and tools with computers.
 

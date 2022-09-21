@@ -3,6 +3,7 @@ title: "Why Snap instead of Docker?"
 subtitle: "More about packaging and assembling Linux"
 date: 2021-09-24T16:04:48-10:00
 draft: false
+tags: ["linux", "build and release"]
 ---
 I don’t think I have to sell anyone on containers at this point. But for the sake of comparison, let’s go over what they give you.
 

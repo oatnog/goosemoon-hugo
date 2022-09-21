@@ -3,6 +3,7 @@ title: "Beyond the Basic Stuff"
 subtitle: "The missing middle of a self-taught developer's journey"
 date: 2021-10-17T16:04:48-10:00
 draft: false
+tags: ["book", "review"]
 ---
 This is another book review. It’s _[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://inventwithpython.com/beyond/)_, by Python popularizer Al Sweigart. (The book is free on his site! Thanks, Al!)
 

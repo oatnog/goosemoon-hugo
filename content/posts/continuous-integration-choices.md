@@ -3,6 +3,7 @@ title: "Continuous Integration Choices"
 subtitle: "Wow, such Jenkins"
 date: 2021-09-27T16:04:48-10:00
 draft: false
+tags: ["build and release"]
 ---
 In the olden days, we ran big builds that took hours. We ran them automatically, maybe twice a day, on all our target systems. They ground along, and we tried to figure out just how much of that time was ‘make’ opening and closing filehandles.
 

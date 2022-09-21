@@ -3,6 +3,7 @@ title: "Hands-on Learning: APIs"
 subtitle: "Why Python calls itself 'batteries included'"
 date: 2021-09-13T16:04:48-10:00
 draft: false
+tags: ["javascript"]
 ---
 So last time, I compared Computer Science with Software Development. My dirt-under-the-fingernails viewpoint: make stuff, break stuff, learn by doing. I am excited for pushback from those of a more academic persuasion!
 

@@ -3,6 +3,7 @@ title: "Linux on the Desktop"
 subtitle: "To our builds: 'oh, the places you'll go!'"
 date: 2021-09-22T16:04:48-10:00
 draft: false
+tags: ["linux"]
 ---
 Maybe you remember the big push to mainstream Linux for end-users. It’s still going on. But it’s already happened.
 

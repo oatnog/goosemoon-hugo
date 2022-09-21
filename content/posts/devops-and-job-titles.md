@@ -3,6 +3,7 @@ title: "DevOps and Job Titles"
 subtitle: "The long underground culture war between sysadmins and SWEs"
 date: 2021-09-25T16:04:48-10:00
 draft: false
+tags: ["devops", "build and release"]
 ---
 Let’s all say it together: “DevOps is a philosophy, not a title.”
 

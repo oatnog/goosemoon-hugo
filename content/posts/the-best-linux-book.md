@@ -3,6 +3,7 @@ title: "The Best Linux Book"
 subtitle: ""
 date: 2021-10-09T16:04:48-10:00
 draft: false
+tags: ["book", "review"]
 ---
 ![]( /img/ualsah.jpeg )
 

@@ -3,6 +3,7 @@ title: "I Just Want to Run the Program"
 subtitle: "Packaging a Desktop App for Linux"
 date: 2021-10-25T16:04:48-10:00
 draft: false
+tags: ["linux", "build and release"]
 ---
 ## Packaging a Desktop App for Linux
 

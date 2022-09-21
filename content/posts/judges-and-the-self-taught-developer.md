@@ -2,6 +2,7 @@
 title: "Judges and the Self-Taught Developer"
 date: 2021-07-13T10:20:09-10:00
 draft: false
+tags: ["education", "programming"]
 ---
  ## Interviews and the coding SATs
 

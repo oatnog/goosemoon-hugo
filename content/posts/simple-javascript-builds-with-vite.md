@@ -3,6 +3,7 @@ title: "Simple JavaScript Builds with Vite"
 subtitle: "Next you'll be telling me I need a build system to publish HTML"
 date: 2021-09-21T16:04:48-10:00
 draft: false
+tags: ["javascript", "build and release"]
 ---
 When I talk with people who have been doing web development for a while, they always seem to complain about contemporary tooling.
 

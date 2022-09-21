@@ -3,6 +3,7 @@ title: "Big Ask: Questions for Prospective Employers"
 subtitle: "As a Build Person, what do I want to find out?"
 date: 2021-09-15T16:04:48-10:00
 draft: false
+tags: ["interviews", "build and release"]
 ---
 So I’m at the end of an interview, and it’s my turn to ask questions.
 

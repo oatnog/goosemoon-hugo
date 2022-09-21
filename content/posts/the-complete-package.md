@@ -3,6 +3,7 @@ title: "The Complete Packaage"
 subtitle: "Can people run what we've built?"
 date: 2021-09-16T16:04:48-10:00
 draft: false
+tags: ["linux", "build and release"]
 ---
 In the early days of Linux, by which I mean the early 90s, we built everything by hand! Small-batch, locally-sourced, artisanal .o files, linked using my grandmother’s secret ‘configure’ scripts and makefiles.
 

@@ -3,6 +3,7 @@ title: "Educational Technology in the Trenches"
 subtitle: "This program is so simple, a five-year-old child could use it. Someone fetch me a five-year-old child."
 date: 2021-09-17T16:04:48-10:00
 draft: false
+tags: ["education", "edtech"]
 ---
 As students returned to the classroom this Fall (2021), they brought with them a slew of habits around remote education. As in, where is the site in which education happens?
 
