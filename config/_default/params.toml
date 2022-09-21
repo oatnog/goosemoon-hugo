@@ -12,11 +12,11 @@ autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 [header]
-  layout = "hamburger" # valid options: basic, hamburger, custom
+  layout = "basic" # valid options: basic, hamburger, custom
 
 [footer]
   showCopyright = true
@@ -26,7 +26,7 @@ enableCodeCopy = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
 
 [article]
   showDate = true
