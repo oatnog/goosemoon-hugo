@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Other Writing"
+  name = "Elsewhere"
   pageRef = "writing"
   weight = 15
 
