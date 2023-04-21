@@ -58,10 +58,14 @@ When is cloud hosting more trouble and expense than it's worth?
 
 [David Heinemeier Hansson has been blogging about this process for months.](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) His company, 37signals, ran the numbers and plan to save millions leaving the cloud in 2023.
 
+[Freelancer Brian David Hall has pared down his "personal stack", replacing some cloud tools with local utilities and datastores.](https://briandavidhall.com/stack/). It looks like a more focused and fun workflow. Keep those backups fresh, Brian!
+
 ## Signs Point to Maybe
 
 Is the cloud magic and the future of everything? Is running your own machine something only for neckbeard cranks on [/r/selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)?
 
 The cloud is amazing and has made so many new developments easier. But! Remember you're being sold a product. Were you promised a simple life from keeping your work on the cloud and using SaaS vendors for everything? Anyone who has tried knows that route has its own complexities.
+
+As a SMB (Small or Medium-sized Business), judicious use of cloud resources can make your work much more flexible and allow you to respond quickly to change. That's very valuable.
 
 Some things are best left to SaaS or the cloud. I wouldn't want to run my own email server, for example. But before you sign up for a Managed tool or just turn on that cloud vendor API, consider how much work and money it will really take. The age-old question of "build or buy" has startling relevance to infrastructure, despite conventional wisdom. You have the tools! Go use them to make something amazing!
